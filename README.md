@@ -1,9 +1,8 @@
 # flutter-counter-app
 Flutter Counter App
 
-Screenshot of Flutter Counter App:
 
-![1](https://user-images.githubusercontent.com/62368837/131862062-1660a0fd-bf76-432a-9485-5887a1306d0e.png)
+
 
 
 Demo:
